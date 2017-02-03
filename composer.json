@@ -1,0 +1,40 @@
+{
+  "name": "gsaychrome/cgol",
+  "description": "A Game of Life egy implementációjának elkészítése",
+  "type": "project",
+  "keywords": ["game", "life"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Say Gergely <gsay@chromestudio.com>",
+      "homepage": "http://www.chromestudio.com"
+    }
+  ],
+  "minimum-stability" : "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=5.5.9",
+    "clab2/application" : "0.2.*",
+    "gsaychrome/golapi" : "0.1.*"
+  },
+  "require-dev": {
+    "clab2/client-generator" : "dev-master",
+    "phalcon/devtools": "2.0.7",
+    "phalcon/incubator": "2.0.7",
+    "phpunit/phpunit": "*",
+    "phpunit/phpunit-selenium": ">=1.2"
+  },
+  "autoload": {
+    "psr-4": {
+    }
+  },
+  "config": {
+    "secure-http": false
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "http://destour:chrome@clab2.chrome.hu"
+    }
+  ]
+}
