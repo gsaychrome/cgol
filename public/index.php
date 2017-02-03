@@ -11,8 +11,9 @@
     <meta name="description" content="">
     <meta name="copyright" content="">
 
-    <!-- htmlbuild:css
-    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css"/>
+    <!-- htmlbuild:css -->
+    <link rel="stylesheet" type="text/css" href="assets/css/reset.css"/>
+    <link rel="stylesheet" type="text/css" href="assets/css/gol.css"/>
     <!-- endbuild -->
 
     <!-- htmlbuild:remove

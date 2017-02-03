@@ -1,0 +1,42 @@
+.gol-living-controll input[type="button"] {
+  border: 1px solid #aaaaaa;
+  width: 100px;
+  margin: 5px;
+  height: 20px;
+}
+
+.gol-living-controll span {
+  margin-left: 5px;
+}
+
+.gol-living-controll input[type="text"] {
+  border: 1px solid #aaaaaa;
+  margin-right: 5px;
+  text-align: right;
+  width: 50px;
+  height: 20px;
+  float: right;
+}
+
+.gol-living-controll {
+  float: left;
+  padding: 5px;
+  height: 500px;
+  border: 1px solid #aaaaaa;
+  background-color: #EEEEEE;
+}
+
+
+.gol-living-space table td {
+  cursor: pointer;
+  width: 10px;
+  height: 10px;
+  border: 1px #CCCCCC solid;
+}
+.gol-living-space table.running td {
+  cursor: default;
+}
+
+.gol-living-space table td.live {
+  background-color: #117700;
+}
