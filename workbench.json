@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "clab2-module": "git@gitlab.chrome.hu:angular/clab2-module.git#develop",
+    "clab2-gol-module": "https://github.com/gsaychrome/clab2-gol-module.git#develop",
+    "clab2-application-module": "git@gitlab.chrome.hu:angular/clab2-application-module.git#develop"
+  },
+  "resolutions" : {
+    "clab2-travelplanner-module": "develop"
+  }
+}

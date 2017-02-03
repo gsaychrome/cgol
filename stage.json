@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "clab2-module": "git@gitlab.chrome.hu:angular/clab2-module.git#>=0.2",
+    "clab2-gol-module": "https://github.com/gsaychrome/clab2-gol-module.git#>=0.1",
+    "clab2-application-module": "git@gitlab.chrome.hu:angular/clab2-application-module.git#>=0.2"
+  }
+}

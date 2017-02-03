@@ -1,0 +1,30 @@
+{
+  "name": "cgol",
+  "version": "0.1.0",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-angular-templatecache": "^2.0.0",
+    "gulp-chug": "^0.5.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-debug": "^2.1.2",
+    "gulp-git": "^1.8.0",
+    "gulp-html-replace": "^1.6.1",
+    "gulp-htmlbuild": "^0.4.2",
+    "gulp-ignore": "^2.0.1",
+    "gulp-json-editor": "^2.2.1",
+    "gulp-less": "^3.1.0",
+    "gulp-merge-json": "^0.6.0",
+    "gulp-minify": "0.0.14",
+    "gulp-replace": "^0.5.4",
+    "gulp-strip-comments": "^2.4.3",
+    "gulp-typescript": "^2.13.6",
+    "gulp-typings": "^2.0.3"
+  },
+  "dependencies": {
+    "gulp-bower": "0.0.13",
+    "gulp-exec": "^2.1.2",
+    "gulp-processhtml": "^1.1.0",
+    "natives": "^1.1.0"
+  }
+}

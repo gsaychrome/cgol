@@ -2,6 +2,10 @@
 vendor
 workbench
 environment.php
+node_modules
+typings
+vendor
+public/clab2
 *.iml
 .classpath
 .project

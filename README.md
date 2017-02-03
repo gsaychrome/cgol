@@ -21,3 +21,21 @@ copy config/environment.example.php environment.php
 A belépési pontot a /public könyvtássa kell állítani, a 
 DirectoryIndex: index.php. Az apache konfiguráció megtalálható a 
 public/.htaccess fileban, ezt környezettől függően át kell alakítani 
+
+4. node inicializálása
+
+npm install
+
+5. A futtatáshoz szükséges javascript modulok
+
+bower install
+
+6. A fejlesztéshez szükséges saját angular modulok letöltése workbenchbe:
+
+gulp init
+
+7. A typescript fordítás inicializálása
+
+gulp module-typings
+gulp module-local
+
