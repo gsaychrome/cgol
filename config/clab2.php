@@ -24,5 +24,12 @@ return [
         'rest' => [
             'register' => ['Game']
         ]
+    ],
+    'frontend' => [
+        'modules' => [
+            'clab2-module' => [
+                'portal/index.html' => '/assets/views/index.html',
+            ]
+        ]
     ]
 ];
