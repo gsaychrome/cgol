@@ -13,6 +13,12 @@
   margin-left: 5px;
 }
 
+.gol-living-controll select {
+  width: 100px;
+  margin: 5px;
+  height: 18px;
+}
+
 .gol-living-controll input[type="text"] {
   border: 1px solid #aaaaaa;
   margin-right: 5px;

@@ -22,7 +22,7 @@ return [
             ]
         ],
         'rest' => [
-            'register' => ['Game']
+            'register' => ['Game','LivingSpace']
         ]
     ],
     'frontend' => [
