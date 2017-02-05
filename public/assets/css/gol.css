@@ -28,6 +28,13 @@
   float: right;
 }
 
+.gol-living-controll input.spaceName {
+  text-align: left;
+  width: 100px;
+  height: 20px;
+}
+
+
 .gol-living-controll {
   float: left;
   padding: 5px;
